@@ -74,7 +74,7 @@
           <img
               src={"images/profile.PNG"}
               alt="Zetane Engine"
-              class="object-cover z-[2] max-h-[70vh]"
+              class="object-cover z-[2] max-h-[50vh] marg"
           />
       </div>
   </section>
